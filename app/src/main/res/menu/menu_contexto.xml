@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/menu_ver"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="@string/menu_ver"/>
+    <item
+        android:id="@+id/menu_remover"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/menu_remover"/>
+</menu>

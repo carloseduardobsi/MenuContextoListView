@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MenuContextoListView</string>
+    <string name="menu_ver">menu_ver</string>
+    <string name="menu_remover">menu_remover</string>
+</resources>
